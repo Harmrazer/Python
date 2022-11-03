@@ -9,6 +9,10 @@
 # Создать экземпляры классов и проверить, что выведет описанный метод для каждого экземпляра.
 # """
 
+print('HomeWork 7.5')
+print('')
+
+
 class Stationery:
     def __init__(self, title):
         self.title = title

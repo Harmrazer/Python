@@ -12,6 +12,9 @@
 # __str__(self) - вызывается функциями str, print и format. Возвращает строковое представление объекта.
 # """
 
+print('HomeWork 7.3')
+print('')
+
 
 class Worker():
 

@@ -12,6 +12,10 @@
 # Проверить работу примера, создав экземпляр и вызвав описанный метод.
 # """
 
+
+print('HomeWork 7.1')
+print('')
+
 import time
 
 class TrafficLight():
